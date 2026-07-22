@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://xxx.github.io/blog/sitemap.xml
+Sitemap: https://boogeyyagaa.github.io/blog/sitemap.xml
