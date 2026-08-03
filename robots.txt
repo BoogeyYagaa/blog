@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://boogeyyagaa.github.io/blog/sitemap.xml
+Sitemap: https://bu-bei-dan-ci.netlify.app/sitemap.xml

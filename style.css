@@ -161,6 +161,16 @@ main { max-width: 720px; margin: 0 auto; padding: 40px 20px 80px; }
 .timeline .year { font-weight: 700; color: #003366; font-size: 14px; }
 .timeline .desc { color: #555; font-size: 15px; }
 
+
+/* --- Language Switcher --- */
+.lang-switch { display: flex; gap: 8px; align-items: center; }
+.lang-switch a {
+  text-decoration: none; font-size: 12px; font-weight: 600;
+  color: #999; padding: 2px 8px; border-radius: 4px; transition: all 0.2s;
+}
+.lang-switch a:hover { color: #003366; background: #e8eef5; }
+.lang-switch a.active { color: #fff; background: #003366; }
+
 /* --- Footer --- */
 .site-footer {
   text-align: center;
@@ -180,3 +190,6 @@ main { max-width: 720px; margin: 0 auto; padding: 40px 20px 80px; }
   .nav-links { gap: 16px; }
   main { padding: 24px 16px 60px; }
 }
+
+/* --- Accessibility --- */
+a:focus-visible { outline: 2px solid #003366; outline-offset: 2px; }

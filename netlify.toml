@@ -1,0 +1,20 @@
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Content-Security-Policy = "default-src 'self' https://www.googletagmanager.com https://www.google-analytics.com; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Redirect old article paths to zh-tw (existing links/index)
+[[redirects]]
+  from = "/articles/*"
+  to = "/zh-tw/articles/:splat"
+  status = 301
+
+# Redirect old root about page
+[[redirects]]
+  from = "/about.html"
+  to = "/zh-tw/about.html"
+  status = 301

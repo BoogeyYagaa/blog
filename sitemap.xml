@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://boogeyyagaa.github.io/blog/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://boogeyyagaa.github.io/blog/about.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://boogeyyagaa.github.io/blog/articles/kan-mei-ju-xue-ying-yu.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://boogeyyagaa.github.io/blog/articles/cong-ji-chu-dao-zhuan-ba.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://boogeyyagaa.github.io/blog/articles/bu-bei-dan-ci-ying-yu-xue-xi.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://boogeyyagaa.github.io/blog/articles/yu-gan-pei-yang-fang-fa.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+  <!-- Root -->
+  <url><loc>https://bu-bei-dan-ci.netlify.app/</loc><priority>0.9</priority></url>
+
+  <!-- zh-TW -->
+  <url><loc>https://bu-bei-dan-ci.netlify.app/zh-tw/</loc><priority>1.0</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/zh-tw/about.html</loc><priority>0.8</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/zh-tw/articles/bu-bei-dan-ci-di-yi-tian.html</loc><priority>0.7</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/zh-tw/articles/yue-du-cai-liao-jin-jie.html</loc><priority>0.7</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/zh-tw/articles/cong-ji-chu-dao-zhuan-ba.html</loc><priority>0.7</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/zh-tw/articles/bu-bei-dan-ci-ying-yu-xue-xi.html</loc><priority>0.7</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/zh-tw/articles/kan-mei-ju-xue-ying-yu.html</loc><priority>0.7</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/zh-tw/articles/yu-gan-pei-yang-fang-fa.html</loc><priority>0.7</priority></url>
+
+  <!-- zh-CN -->
+  <url><loc>https://bu-bei-dan-ci.netlify.app/zh-cn/</loc><priority>1.0</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/zh-cn/about.html</loc><priority>0.8</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/zh-cn/articles/bu-bei-dan-ci-di-yi-tian.html</loc><priority>0.7</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/zh-cn/articles/yue-du-cai-liao-jin-jie.html</loc><priority>0.7</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/zh-cn/articles/cong-ji-chu-dao-zhuan-ba.html</loc><priority>0.7</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/zh-cn/articles/bu-bei-dan-ci-ying-yu-xue-xi.html</loc><priority>0.7</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/zh-cn/articles/kan-mei-ju-xue-ying-yu.html</loc><priority>0.7</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/zh-cn/articles/yu-gan-pei-yang-fang-fa.html</loc><priority>0.7</priority></url>
+
+  <!-- EN -->
+  <url><loc>https://bu-bei-dan-ci.netlify.app/en/</loc><priority>1.0</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/en/about.html</loc><priority>0.8</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/en/articles/day-one-without-rote-memorization.html</loc><priority>0.7</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/en/articles/reading-material-progression.html</loc><priority>0.7</priority></url>
+  <url><loc>https://bu-bei-dan-ci.netlify.app/en/articles/from-beginner-to-tem8.html</loc><priority>0.7</priority></url>
 </urlset>
