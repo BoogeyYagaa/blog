@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bu-bei-dan-ci.netlify.app/sitemap.xml
+Sitemap: https://blog.nippori.top/sitemap.xml

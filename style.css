@@ -161,6 +161,20 @@ main { max-width: 720px; margin: 0 auto; padding: 40px 20px 80px; }
 .timeline .year { font-weight: 700; color: #003366; font-size: 14px; }
 .timeline .desc { color: #555; font-size: 15px; }
 
+/* --- Related posts --- */
+.related-posts {
+  margin: 36px 0 24px;
+  padding: 20px 24px;
+  background: #f5f7fa;
+  border-left: 4px solid #003366;
+  border-radius: 6px;
+}
+.related-posts h2 { font-size: 16px; color: #003366; margin-bottom: 10px; }
+.related-posts ul { list-style: none; margin: 0; padding: 0; }
+.related-posts li { margin-bottom: 6px; }
+.related-posts li:last-child { margin-bottom: 0; }
+.related-posts a { color: #003366; text-decoration: none; }
+.related-posts a:hover { text-decoration: underline; }
 
 /* --- Language Switcher --- */
 .lang-switch { display: flex; gap: 8px; align-items: center; }
